@@ -1,0 +1,20 @@
+# Python
+
+**pycache**/
+*.pyc
+
+# Virtual env
+
+venv/
+env/
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# OS
+
+.DS_Store
+Thumbs.db
+
+
